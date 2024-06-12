@@ -1,4 +1,4 @@
-## Annual Report - Excel Report 
+## Annual Report - Excel Project
 Vrinda Store is an online website that sells apparel for men and women. I generated annual reports for their sales to understand the customers and gain more customers based on the highest-selling category and particular age group. This Excel report is dynamic and helpful for analyzing business and taking actionable decisions.
 
 ## Project Overview
